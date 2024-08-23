@@ -1,0 +1,7 @@
+C:\Users\JEM\Desktop\TECHBILI PH.exe
+C:\Users\JEM\Desktop\TECHBILI PH.dll
+C:\Users\JEM\Desktop\TECHBILI PH.deps.json
+C:\Users\JEM\Desktop\TECHBILI PH.runtimeconfig.json
+C:\Users\JEM\Desktop\TECHBILI PH.pdb
+C:\Users\JEM\Desktop\FireSharp.dll
+C:\Users\JEM\Desktop\RestSharp.dll

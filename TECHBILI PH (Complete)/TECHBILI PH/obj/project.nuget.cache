@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "ShhehsQQlc1ESKwD6KmGu384FyLonR2D3xzzJYGxcfyGSxuw1uY0tf+vmacGjF/MdFGt4cRAvALvwdiyPyhggQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JEM\\Documents\\Programming Projects\\TECHBILI PH (Complete)\\TECHBILI PH\\TECHBILI PH.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JEM\\.nuget\\packages\\firesharp\\1.0.1\\firesharp.1.0.1.nupkg.sha512",
+    "C:\\Users\\JEM\\.nuget\\packages\\restsharp\\104.3.3\\restsharp.104.3.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'FireSharp 1.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "FireSharp",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'RestSharp 104.3.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "RestSharp",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}

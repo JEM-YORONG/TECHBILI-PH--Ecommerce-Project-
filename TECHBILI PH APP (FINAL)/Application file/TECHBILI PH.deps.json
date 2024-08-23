@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TECHBILI PH/1.0.0": {
+        "dependencies": {
+          "FireSharp": "1.0.1"
+        },
+        "runtime": {
+          "TECHBILI PH.dll": {}
+        }
+      },
+      "FireSharp/1.0.1": {
+        "dependencies": {
+          "RestSharp": "104.3.3"
+        },
+        "runtime": {
+          "lib/net45/FireSharp.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "RestSharp/104.3.3": {
+        "runtime": {
+          "lib/net4/RestSharp.dll": {
+            "assemblyVersion": "104.3.3.0",
+            "fileVersion": "104.3.3.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TECHBILI PH/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FireSharp/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vN7SSl2TArTliGu8njrFn9o2ValhL1NZqJ4VFgZt3MLTNivu+1/TKab41ltK2d5/h2IZl/BvF3Gr+XucDYwtbQ==",
+      "path": "firesharp/1.0.1",
+      "hashPath": "firesharp.1.0.1.nupkg.sha512"
+    },
+    "RestSharp/104.3.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kQ8nqxfkDL9vn27dD2T8Nud6Y15Anf6bbGf6wWp/ezu187qEUB/aCpfuClpfI4+f83J2+EzfpYyN66FfNfiB3g==",
+      "path": "restsharp/104.3.3",
+      "hashPath": "restsharp.104.3.3.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+C:\Users\JEM\Documents\Programming Projects\TECHBILI PH (Complete)\TECHBILI PH\bin\Release\net6.0-windows\TECHBILI PH.exe
+C:\Users\JEM\Documents\Programming Projects\TECHBILI PH (Complete)\TECHBILI PH\bin\Release\net6.0-windows\TECHBILI PH.deps.json
+C:\Users\JEM\Documents\Programming Projects\TECHBILI PH (Complete)\TECHBILI PH\bin\Release\net6.0-windows\TECHBILI PH.runtimeconfig.json
+C:\Users\JEM\Documents\Programming Projects\TECHBILI PH (Complete)\TECHBILI PH\bin\Release\net6.0-windows\TECHBILI PH.dll
+C:\Users\JEM\Documents\Programming Projects\TECHBILI PH (Complete)\TECHBILI PH\bin\Release\net6.0-windows\TECHBILI PH.pdb
+C:\Users\JEM\Documents\Programming Projects\TECHBILI PH (Complete)\TECHBILI PH\bin\Release\net6.0-windows\FireSharp.dll
+C:\Users\JEM\Documents\Programming Projects\TECHBILI PH (Complete)\TECHBILI PH\bin\Release\net6.0-windows\RestSharp.dll
+C:\Users\JEM\Documents\Programming Projects\TECHBILI PH (Complete)\TECHBILI PH\obj\Release\net6.0-windows\TECHBILI PH.csproj.AssemblyReference.cache
+C:\Users\JEM\Documents\Programming Projects\TECHBILI PH (Complete)\TECHBILI PH\obj\Release\net6.0-windows\TECHBILI_PH.AccountForm.resources
+C:\Users\JEM\Documents\Programming Projects\TECHBILI PH (Complete)\TECHBILI PH\obj\Release\net6.0-windows\TECHBILI_PH.AdminForm.resources
+C:\Users\JEM\Documents\Programming Projects\TECHBILI PH (Complete)\TECHBILI PH\obj\Release\net6.0-windows\TECHBILI_PH.AdminLogin.resources
+C:\Users\JEM\Documents\Programming Projects\TECHBILI PH (Complete)\TECHBILI PH\obj\Release\net6.0-windows\TECHBILI_PH.CartForm.resources
+C:\Users\JEM\Documents\Programming Projects\TECHBILI PH (Complete)\TECHBILI PH\obj\Release\net6.0-windows\TECHBILI_PH.CheckoutForm.resources
+C:\Users\JEM\Documents\Programming Projects\TECHBILI PH (Complete)\TECHBILI PH\obj\Release\net6.0-windows\TECHBILI_PH.CreateAccountForm.resources
+C:\Users\JEM\Documents\Programming Projects\TECHBILI PH (Complete)\TECHBILI PH\obj\Release\net6.0-windows\TECHBILI_PH.LoginForm.resources
+C:\Users\JEM\Documents\Programming Projects\TECHBILI PH (Complete)\TECHBILI PH\obj\Release\net6.0-windows\TECHBILI_PH.MainScreenForm.resources
+C:\Users\JEM\Documents\Programming Projects\TECHBILI PH (Complete)\TECHBILI PH\obj\Release\net6.0-windows\TECHBILI_PH.MyStoreCreateStoreForm.resources
+C:\Users\JEM\Documents\Programming Projects\TECHBILI PH (Complete)\TECHBILI PH\obj\Release\net6.0-windows\TECHBILI_PH.MyStoreLoginForm.resources
+C:\Users\JEM\Documents\Programming Projects\TECHBILI PH (Complete)\TECHBILI PH\obj\Release\net6.0-windows\TECHBILI_PH.MyStoreMainScreenForm.resources
+C:\Users\JEM\Documents\Programming Projects\TECHBILI PH (Complete)\TECHBILI PH\obj\Release\net6.0-windows\TECHBILI_PH.ProductInfoForm.resources
+C:\Users\JEM\Documents\Programming Projects\TECHBILI PH (Complete)\TECHBILI PH\obj\Release\net6.0-windows\TECHBILI PH.csproj.GenerateResource.cache
+C:\Users\JEM\Documents\Programming Projects\TECHBILI PH (Complete)\TECHBILI PH\obj\Release\net6.0-windows\TECHBILI PH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JEM\Documents\Programming Projects\TECHBILI PH (Complete)\TECHBILI PH\obj\Release\net6.0-windows\TECHBILI PH.AssemblyInfoInputs.cache
+C:\Users\JEM\Documents\Programming Projects\TECHBILI PH (Complete)\TECHBILI PH\obj\Release\net6.0-windows\TECHBILI PH.AssemblyInfo.cs
+C:\Users\JEM\Documents\Programming Projects\TECHBILI PH (Complete)\TECHBILI PH\obj\Release\net6.0-windows\TECHBILI PH.csproj.CoreCompileInputs.cache
+C:\Users\JEM\Documents\Programming Projects\TECHBILI PH (Complete)\TECHBILI PH\obj\Release\net6.0-windows\TECHBILI PH.csproj.CopyComplete
+C:\Users\JEM\Documents\Programming Projects\TECHBILI PH (Complete)\TECHBILI PH\obj\Release\net6.0-windows\TECHBILI PH.dll
+C:\Users\JEM\Documents\Programming Projects\TECHBILI PH (Complete)\TECHBILI PH\obj\Release\net6.0-windows\refint\TECHBILI PH.dll
+C:\Users\JEM\Documents\Programming Projects\TECHBILI PH (Complete)\TECHBILI PH\obj\Release\net6.0-windows\TECHBILI PH.pdb
+C:\Users\JEM\Documents\Programming Projects\TECHBILI PH (Complete)\TECHBILI PH\obj\Release\net6.0-windows\TECHBILI PH.genruntimeconfig.cache
+C:\Users\JEM\Documents\Programming Projects\TECHBILI PH (Complete)\TECHBILI PH\obj\Release\net6.0-windows\ref\TECHBILI PH.dll
